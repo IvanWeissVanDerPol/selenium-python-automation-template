@@ -1,0 +1,19 @@
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# Selenium test-specific
+screenshots/
+logs/
+
+# WebDriver executables
+chromedriver.exe
+geckodriver
+
+# IDE-specific ignores
+.vscode/
+.idea/
